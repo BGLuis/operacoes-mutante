@@ -1,11 +1,10 @@
-# Pontifícia Universidade Católica (PUC)
-## [NOME DA DISCIPLINA]
+# Pontifícia Universidade Católica de Minas Gerais (PUC Minas)
+## ICEI - Engenharia de Software | Testes de Software
 ### Trabalho Prático: Análise de Eficácia de Testes com Teste de Mutação
 
 ---
 
-**Aluno:** [SEU NOME COMPLETO]  
-**Matrícula:** [SUA MATRÍCULA]  
+**Aluno:** Luis Henrique Gonçalves Barbosa  
 **Repositório do Projeto:** https://github.com/BGLuis/operacoes-mutante  
 **Data:** Outubro de 2026  
 
